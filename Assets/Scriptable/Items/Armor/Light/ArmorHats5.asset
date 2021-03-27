@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 02cc2aca8dcb54345a5b5016b1747042, type: 3}
+  m_Name: ArmorHats5
+  m_EditorClassIdentifier: 
+  type: 0
+  sprite: {fileID: -8700347722689439309, guid: 456403cb4d8b8564eb6fc79d259d0957, type: 3}
+  globalPrefab: {fileID: 3997086412874476679, guid: 13e1304910a597242b622b7628288322,
+    type: 3}
+  rarity: 1
+  canStack: 0
+  value: 1
+  wearMesh: {fileID: 0}
+  wearMesh2: {fileID: 0}
+  wearColor: {r: 0, g: 0, b: 0, a: 0}
+  wearColor2: {r: 0, g: 0, b: 0, a: 0}
+  manaAdd: 0
+  hpAdd: 0
+  weaponPrefab: {fileID: 0}
+  skills: []
+  invokeMethod: 
+  keys: []

@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 02cc2aca8dcb54345a5b5016b1747042, type: 3}
+  m_Name: CrossBow
+  m_EditorClassIdentifier: 
+  type: 3
+  sprite: {fileID: 612596470744354101, guid: 456403cb4d8b8564eb6fc79d259d0957, type: 3}
+  globalPrefab: {fileID: 2468217792482661285, guid: 8f344bc389be68d4a90626d66f3fa30e,
+    type: 3}
+  rarity: 1
+  canStack: 0
+  value: 1
+  wearMesh: {fileID: 0}
+  wearMesh2: {fileID: 0}
+  wearColor: {r: 0, g: 0, b: 0, a: 0}
+  wearColor2: {r: 0, g: 0, b: 0, a: 0}
+  manaAdd: 0
+  hpAdd: 0
+  weaponPrefab: {fileID: 2468217792482661285, guid: 8f344bc389be68d4a90626d66f3fa30e,
+    type: 3}
+  skills:
+  - {fileID: 11400000, guid: e21b5eea3d6bb1b4ea1aa40333ca505d, type: 2}
+  - {fileID: 11400000, guid: d0918d6cc2dc7864b9502e645835219e, type: 2}
+  invokeMethod: 
+  keys: []

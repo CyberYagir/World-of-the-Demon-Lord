@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a47d31ce952c0324baf81ca81a9af82e, type: 3}
+  m_Name: Wand Attack 1
+  m_EditorClassIdentifier: 
+  maxAttackDistace: 10
+  minAttackDistace: 0.1
+  damage: 15
+  skillTime: 0.4
+  coolDown: 0.0001
+  mana: 34
+  hp: 0
+  isSpawn: 1
+  spawnObject: {fileID: 1959033203269618869, guid: fd42cd6107a94a749995c7bb51a91392,
+    type: 3}
+  invoke: 
+  type: 0
+  radius: 0
+  icon: {fileID: -936124954036847002, guid: 38041ed8623472340a6113f342f5d8af, type: 3}
+  clips:
+  - {fileID: 7400000, guid: bf8b22e488c562d4db59e26d5f86fd29, type: 2}
+  buffs: []
