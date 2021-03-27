@@ -5,4 +5,4 @@
 <p>Unity ver: 2019.4.0f1</p>
 
 <br>
-<img src="thumbnail.jpg">
+<img src="thumbnail.png">
